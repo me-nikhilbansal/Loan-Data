@@ -21,7 +21,7 @@ Data Cleaning and preprocessing of the Loan Data using NumPy in Python
 **Transformations made to the attributes of Loan Data for Data Cleaning and Preprocessing.**
 
 -	Id: Sorted in increasing order. 
-•	issue_d: Name changed to issue_date. Transformed into numbers from 0 to 12. 
+-	issue_d: Name changed to issue_date. Transformed into numbers from 0 to 12. 
 •	loan_amnt: Name changed to loan_amnt_USD. Created an equivalent value in _EUR stored in loan_amnt_EUR.
 •	loan_status: Transformed into a dummy variable (0 or 1).
 •	funded_amnt: Name changed to loan_amnt_USD. Created an equivalent value in _EUR stored in loan_amnt_EUR.
